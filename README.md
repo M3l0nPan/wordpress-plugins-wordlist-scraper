@@ -2,6 +2,8 @@
 
 Build a WordPress plugins wordlist.
 
+[Download WordPress plugins wordlist](https://github.com/M3l0nPan/wordpress-plugins-wordlist-scraper/raw/main/wordpress_plugins_wordlist)
+
 ## Prerequisites
 
 Install Python script  : requirements :
